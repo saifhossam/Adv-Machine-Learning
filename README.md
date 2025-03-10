@@ -12,3 +12,6 @@ This project applies **machine learning techniques** to analyze a medical datase
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/your-repo-name.git
+
+## Dataset
+The project uses Medicaldataset.csv. Ensure the dataset is placed in the project directory.
