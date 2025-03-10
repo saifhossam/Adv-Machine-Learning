@@ -15,3 +15,7 @@ This project applies **machine learning techniques** to analyze a medical datase
 
 ## Dataset
 The project uses Medicaldataset.csv. Ensure the dataset is placed in the project directory.
+
+## Usage
+- Run the Jupyter Notebook to train and evaluate the model.
+- Use the GUI for interactive data analysis and prediction.
